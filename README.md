@@ -1,4 +1,5 @@
 # Hi, I am Azahara
+<img src="https://github.com/azaharafernandezguizan/azaharafernandezguizan/blob/master/Azi_OctoCat.png"  width="200" height="200" alt="Octocat personalizado de Azahara, con libros, pulsera, lazo rosa, falda larga naranja, americana negra y zapatillas negras" />
 
 ## About me:
 * 😄 Pronouns: My pronoun is her, and you can call me by my fullname or Azi (as my friends call me).
