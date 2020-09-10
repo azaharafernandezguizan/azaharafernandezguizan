@@ -10,3 +10,7 @@
 * ⚡ Fun fact: Every week I write the [Azi Science and Tech newsletter](https://mailchi.mp/080e3fceffc3/aziscienceandtech), in which I sum up 3 scientific and technological news on spanish.
 * 📫 Reach me: I am very active on [Twitter](https://twitter.com/azahara_fergui) and on [Linkedin](https://www.linkedin.com/in/azahara-fernandez-guizan/)
 
+## About my repos (PRs and other info):
+All the developments that I code are for learning or for entertainment. Usually, when I finish one I don´t maintain it. For this reason, many of them could have several errors, or improvements and as time past, the number would increase. If you want perfect code that is maintained sorry, but you are not going to find it here probably. I would not accept PR from people I don´t know unless I have asked for help or I have spoken about it with the person concerned. 
+Thanks for understanding it  😄
+
